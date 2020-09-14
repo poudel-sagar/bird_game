@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    
+    
+}
+sagar{
+    width:75%;
+    height: 55%;
+    margin:30px auto;
+    border:1px solid white;
+    display:grid; color: white;
+    grid-template-rows: 160px 160px 00px 160px;
+    grid-template-columns: repeat(3,2fr) 60px;
+    grid-gap: 20px;
+
+}
+.div1{background-color:#ff4757;
+    height: 115%;
+  
+}
+.div3{background-color:#1e90ff;
+    height: 115%;}
+.div4{background-color:#ff4757;
+    height: 115%;}
