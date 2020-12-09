@@ -1,4 +1,4 @@
-//safasrt//
+//safasrtTt//
 package com.example.last.bird_game;
 
 import android.content.res.Resources;
